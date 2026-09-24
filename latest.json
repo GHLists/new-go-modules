@@ -1,4 +1,12 @@
 {
   "bootstrapped": true,
-  "cursor": "2026-09-24T13:38:41.117602Z"
+  "cursor": "2026-09-24T14:20:55.342753Z",
+  "list": {
+    "count": 2019,
+    "from": "2026-09-24T13:20:55.342753Z",
+    "path": "data/new-modules-2026-09-24T14-20-55-342753Z.csv",
+    "to": "2026-09-24T14:20:55.342753Z"
+  },
+  "source_truncated": false,
+  "window": "2026-09-24T14:20:55.342753Z"
 }
