@@ -9,95 +9,92 @@ not seen before and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 05:20 UTC
+## Latest list — 2026-11-06 06:19 UTC
 
-New modules first seen between 2026-11-06 04:21 UTC and 2026-11-06 05:20 UTC.
+New modules first seen between 2026-11-06 05:20 UTC and 2026-11-06 06:19 UTC.
 
-[Full CSV](data/new-modules-2026-11-06T05-20-09-664902Z.csv)
+[Full CSV](data/new-modules-2026-11-06T06-19-49-380933Z.csv)
 
 | First seen (UTC) | Module | Version |
 | :--------------- | :----- | :------ |
-| 2026-11-06 04:22:41 | [github.com/jftuga/bzip3-go](https://pkg.go.dev/github.com/jftuga/bzip3-go@v1.0.1-0.20260703021221-38e20e9f84a7) | v1.0.1-0.20260703021221-38e20e9f84a7 |
-| 2026-11-06 04:23:02 | [github.com/larsartmann/go-cqrs-lite/systemcatalog/v4](https://pkg.go.dev/github.com/larsartmann/go-cqrs-lite/systemcatalog/v4@v4.0.0-20261106030140-254e4839c151) | v4.0.0-20261106030140-254e4839c151 |
-| 2026-11-06 04:23:54 | [github.com/Sahu-Ayush/go-library-poc/systeminfo](https://pkg.go.dev/github.com/Sahu-Ayush/go-library-poc/systeminfo@v1.0.0) | v1.0.0 |
-| 2026-11-06 04:25:38 | [github.com/edrlab/lcp-server](https://pkg.go.dev/github.com/edrlab/lcp-server@v0.0.0-20260622151018-32be674cd4bf) | v0.0.0-20260622151018-32be674cd4bf |
-| 2026-11-06 04:26:24 | [github.com/customerio/mist](https://pkg.go.dev/github.com/customerio/mist@v0.39.0) | v0.39.0 |
-| 2026-11-06 04:31:12 | [github.com/tsoding/gatekeeper](https://pkg.go.dev/github.com/tsoding/gatekeeper@v0.0.0-20261104124942-4e4852e7a56d) | v0.0.0-20261104124942-4e4852e7a56d |
-| 2026-11-06 04:32:11 | [github.com/voorz/mtapi](https://pkg.go.dev/github.com/voorz/mtapi@v0.0.0-20261027074209-d892d3120dd4) | v0.0.0-20261027074209-d892d3120dd4 |
-| 2026-11-06 04:32:54 | [github.com/m-lab/uuid](https://pkg.go.dev/github.com/m-lab/uuid@v0.0.0-20190319225220-4e954503f681) | v0.0.0-20190319225220-4e954503f681 |
-| 2026-11-06 04:33:01 | [github.com/mike-north/sh/v3](https://pkg.go.dev/github.com/mike-north/sh/v3@v3.14.2-0.20261106043227-bbc7c4ace575) | v3.14.2-0.20261106043227-bbc7c4ace575 |
-| 2026-11-06 04:33:06 | [github.com/juanjitech/termium-proto](https://pkg.go.dev/github.com/juanjitech/termium-proto@v0.0.0-20261106042411-390e68be4f19) | v0.0.0-20261106042411-390e68be4f19 |
-| 2026-11-06 04:33:46 | [github.com/prulloac/weave](https://pkg.go.dev/github.com/prulloac/weave@v1.0.1-0.20261106041815-a00840eb5047) | v1.0.1-0.20261106041815-a00840eb5047 |
-| 2026-11-06 04:35:18 | [github.com/gocraft/health](https://pkg.go.dev/github.com/gocraft/health@v0.0.0-20160902105023-471f1b2c5a6a) | v0.0.0-20160902105023-471f1b2c5a6a |
-| 2026-11-06 04:37:18 | [github.com/sawirstudio/lazysvn](https://pkg.go.dev/github.com/sawirstudio/lazysvn@v0.4.1) | v0.4.1 |
-| 2026-11-06 04:38:07 | [github.com/dliv3/Venom](https://pkg.go.dev/github.com/dliv3/Venom@v1.1.0) | v1.1.0 |
-| 2026-11-06 04:38:21 | [github.com/traPtitech/rucQ](https://pkg.go.dev/github.com/traPtitech/rucQ@v1.1.4) | v1.1.4 |
-| 2026-11-06 04:38:23 | [github.com/traptitech/rucq](https://pkg.go.dev/github.com/traptitech/rucq@v1.1.4) | v1.1.4 |
-| 2026-11-06 04:38:58 | [github.com/0Rafas/discord-iac](https://pkg.go.dev/github.com/0Rafas/discord-iac@v0.0.0-20260616001310-c246327414b1) | v0.0.0-20260616001310-c246327414b1 |
-| 2026-11-06 04:39:23 | [github.com/0rafas/discord-iac](https://pkg.go.dev/github.com/0rafas/discord-iac@v0.0.0-20260616001310-c246327414b1) | v0.0.0-20260616001310-c246327414b1 |
-| 2026-11-06 04:40:22 | [github.com/travisjeffery/package-firewall](https://pkg.go.dev/github.com/travisjeffery/package-firewall@v0.0.0-20261104040007-a4c8fdf5320c) | v0.0.0-20261104040007-a4c8fdf5320c |
-| 2026-11-06 04:41:28 | [github.com/k3s-vip/kine](https://pkg.go.dev/github.com/k3s-vip/kine@v0.16.6-vip) | v0.16.6-vip |
-| 2026-11-06 04:41:35 | [github.com/istoreos/quickstart/backend](https://pkg.go.dev/github.com/istoreos/quickstart/backend@v0.0.0-20261103074947-72b8d6514a2d) | v0.0.0-20261103074947-72b8d6514a2d |
-| 2026-11-06 04:42:25 | [github.com/istoreos/quickstart](https://pkg.go.dev/github.com/istoreos/quickstart@v0.0.0-20261103074947-72b8d6514a2d) | v0.0.0-20261103074947-72b8d6514a2d |
-| 2026-11-06 04:42:41 | [github.com/TrebuchetDynamics/gormes-agent](https://pkg.go.dev/github.com/TrebuchetDynamics/gormes-agent@v0.2.29) | v0.2.29 |
-| 2026-11-06 04:43:22 | [github.com/goptics/varmq/contract](https://pkg.go.dev/github.com/goptics/varmq/contract@v0.2.0) | v0.2.0 |
-| 2026-11-06 04:43:38 | [github.com/trebuchetdynamics/gormes-agent](https://pkg.go.dev/github.com/trebuchetdynamics/gormes-agent@v0.2.29) | v0.2.29 |
-| 2026-11-06 04:43:40 | [github.com/zhuweiyou/adb-qr](https://pkg.go.dev/github.com/zhuweiyou/adb-qr@v0.0.0-20261104055831-aad71851bab4) | v0.0.0-20261104055831-aad71851bab4 |
-| 2026-11-06 04:43:59 | [github.com/xmtp/go-waku](https://pkg.go.dev/github.com/xmtp/go-waku@v0.0.0-20220309190118-83db32405f92) | v0.0.0-20220309190118-83db32405f92 |
-| 2026-11-06 04:44:53 | [github.com/huaweicloud/huaweicloud-lts-sdk-go](https://pkg.go.dev/github.com/huaweicloud/huaweicloud-lts-sdk-go@v0.0.0-20261106011715-d057637ee927) | v0.0.0-20261106011715-d057637ee927 |
-| 2026-11-06 04:46:34 | [github.com/zhanglei/geohash-1](https://pkg.go.dev/github.com/zhanglei/geohash-1@v0.0.0-20140328082746-4cdec284a5e6) | v0.0.0-20140328082746-4cdec284a5e6 |
-| 2026-11-06 04:47:19 | [github.com/sandypenis/go-iso8583](https://pkg.go.dev/github.com/sandypenis/go-iso8583@v0.0.0-20250601085148-4563d0314cba) | v0.0.0-20250601085148-4563d0314cba |
-| 2026-11-06 04:48:39 | [github.com/go-yaml/go-yaml-v1](https://pkg.go.dev/github.com/go-yaml/go-yaml-v1@v0.0.0-20140924161607-9f9df34309c0) | v0.0.0-20140924161607-9f9df34309c0 |
-| 2026-11-06 04:48:57 | [github.com/affinity/terraform-provider-aws-download](https://pkg.go.dev/github.com/affinity/terraform-provider-aws-download@v0.0.2) | v0.0.2 |
-| 2026-11-06 04:49:42 | [github.com/kubeflow/dashboard/components/access-management](https://pkg.go.dev/github.com/kubeflow/dashboard/components/access-management@v0.0.0-20261103184703-7628a2f559bc) | v0.0.0-20261103184703-7628a2f559bc |
-| 2026-11-06 04:49:46 | [github.com/Kaivodev/protobuf](https://pkg.go.dev/github.com/Kaivodev/protobuf@v0.6.0) | v0.6.0 |
-| 2026-11-06 04:49:50 | [github.com/t-richards/vulnsearch](https://pkg.go.dev/github.com/t-richards/vulnsearch@v0.0.0-20261031042110-9d22be57d780) | v0.0.0-20261031042110-9d22be57d780 |
-| 2026-11-06 04:50:02 | [github.com/apple/tree-sitter-pkl](https://pkg.go.dev/github.com/apple/tree-sitter-pkl@v0.22.0) | v0.22.0 |
-| 2026-11-06 04:50:22 | [github.com/kaivodev/protobuf](https://pkg.go.dev/github.com/kaivodev/protobuf@v0.6.0) | v0.6.0 |
-| 2026-11-06 04:50:40 | [github.com/sijms/go-ORA](https://pkg.go.dev/github.com/sijms/go-ORA@v1.3.2) | v1.3.2 |
-| 2026-11-06 04:50:53 | [github.com/iceisfun/golua/v2](https://pkg.go.dev/github.com/iceisfun/golua/v2@v2.0.6-0.20260901081125-36de3be5500e) | v2.0.6-0.20260901081125-36de3be5500e |
-| 2026-11-06 04:51:21 | [github.com/isfopo/rig-components](https://pkg.go.dev/github.com/isfopo/rig-components@v0.0.0-20261105174442-e774edc88866) | v0.0.0-20261105174442-e774edc88866 |
-| 2026-11-06 04:51:43 | [github.com/minskylab/plutus](https://pkg.go.dev/github.com/minskylab/plutus@v0.0.0-20200120170118-794a79bd7e52) | v0.0.0-20200120170118-794a79bd7e52 |
-| 2026-11-06 04:52:04 | [github.com/mrbrutti/gocard](https://pkg.go.dev/github.com/mrbrutti/gocard@v0.0.0-20120630033454-a30adc780eca) | v0.0.0-20120630033454-a30adc780eca |
-| 2026-11-06 04:52:24 | [github.com/trinhminhtriet/git-author](https://pkg.go.dev/github.com/trinhminhtriet/git-author@v0.0.0-20261103021516-7a50827c4248) | v0.0.0-20261103021516-7a50827c4248 |
-| 2026-11-06 04:52:28 | [github.com/wasay-usmani/creditcard](https://pkg.go.dev/github.com/wasay-usmani/creditcard@v0.0.0-20250606114231-e6aa53a56348) | v0.0.0-20250606114231-e6aa53a56348 |
-| 2026-11-06 04:52:55 | [github.com/trinsic-id/sdk](https://pkg.go.dev/github.com/trinsic-id/sdk@v0.0.0-20261105222914-ccd8e23763f0) | v0.0.0-20261105222914-ccd8e23763f0 |
-| 2026-11-06 04:52:55 | [github.com/trinsic-id/connect-sdks](https://pkg.go.dev/github.com/trinsic-id/connect-sdks@v0.0.0-20261105222914-ccd8e23763f0) | v0.0.0-20261105222914-ccd8e23763f0 |
-| 2026-11-06 04:53:16 | [github.com/pedro-leitao/fistandards](https://pkg.go.dev/github.com/pedro-leitao/fistandards@v0.0.0-20200501232557-7041bcb60ea0) | v0.0.0-20200501232557-7041bcb60ea0 |
-| 2026-11-06 04:53:18 | [github.com/xiidea/easy-excel/extension](https://pkg.go.dev/github.com/xiidea/easy-excel/extension@v0.0.0-20261106043332-9d7326bdb83e) | v0.0.0-20261106043332-9d7326bdb83e |
-| 2026-11-06 04:55:11 | [github.com/tristenlammi/arrmada](https://pkg.go.dev/github.com/tristenlammi/arrmada@v0.4.0) | v0.4.0 |
-| 2026-11-06 04:55:29 | [github.com/TritonDataCenter/monitor-reef/clients/external/cloudapi-client/golang](https://pkg.go.dev/github.com/TritonDataCenter/monitor-reef/clients/external/cloudapi-client/golang@v0.0.0-20261013121518-d3022322a0ae) | v0.0.0-20261013121518-d3022322a0ae |
-| 2026-11-06 04:56:23 | [github.com/trixky/gobencode](https://pkg.go.dev/github.com/trixky/gobencode@v0.0.0-20261102052611-5eb319399fda) | v0.0.0-20261102052611-5eb319399fda |
-| 2026-11-06 04:56:29 | [github.com/ArtalkJS/Artalk](https://pkg.go.dev/github.com/ArtalkJS/Artalk@v0.0.0-20240124133330-589850d3114d) | v0.0.0-20240124133330-589850d3114d |
-| 2026-11-06 04:56:41 | [github.com/ArtalkJS/ArtalkGo](https://pkg.go.dev/github.com/ArtalkJS/ArtalkGo@v0.0.0-20210927055438-c124b0abc16e) | v0.0.0-20210927055438-c124b0abc16e |
-| 2026-11-06 04:56:52 | [github.com/artalkjs/artalkgo](https://pkg.go.dev/github.com/artalkjs/artalkgo@v0.0.0-20210927055438-c124b0abc16e) | v0.0.0-20210927055438-c124b0abc16e |
-| 2026-11-06 04:56:53 | [github.com/OLIVERLAMBSON/NATS-SERVER](https://pkg.go.dev/github.com/OLIVERLAMBSON/NATS-SERVER@v1.0.2) | v1.0.2 |
-| 2026-11-06 04:57:08 | [github.com/Trois-Six/k8s-diagrams](https://pkg.go.dev/github.com/Trois-Six/k8s-diagrams@v0.0.7) | v0.0.7 |
-| 2026-11-06 04:57:43 | [github.com/trollixx/vsenv](https://pkg.go.dev/github.com/trollixx/vsenv@v0.1.4) | v0.1.4 |
-| 2026-11-06 04:57:50 | [github.com/trois-six/k8s-diagrams](https://pkg.go.dev/github.com/trois-six/k8s-diagrams@v0.0.7) | v0.0.7 |
-| 2026-11-06 04:58:24 | [github.com/paveforge/chichi](https://pkg.go.dev/github.com/paveforge/chichi@v0.0.0-20261106044153-94d78627a388) | v0.0.0-20261106044153-94d78627a388 |
-| 2026-11-06 04:58:56 | [github.com/iamBelugaa/goa-iam](https://pkg.go.dev/github.com/iamBelugaa/goa-iam@v0.0.0-20250721171641-1ccb8a418894) | v0.0.0-20250721171641-1ccb8a418894 |
-| 2026-11-06 04:59:37 | [github.com/iambelugaa/goa-iam](https://pkg.go.dev/github.com/iambelugaa/goa-iam@v0.0.0-20250721171641-1ccb8a418894) | v0.0.0-20250721171641-1ccb8a418894 |
-| 2026-11-06 05:02:30 | [github.com/truenas/truenas-csi/operator](https://pkg.go.dev/github.com/truenas/truenas-csi/operator@v0.0.0-20261103141416-fe0d812e4fb4) | v0.0.0-20261103141416-fe0d812e4fb4 |
-| 2026-11-06 05:02:51 | [github.com/waqqer/pfmt/v2](https://pkg.go.dev/github.com/waqqer/pfmt/v2@v2.0.1) | v2.0.1 |
-| 2026-11-06 05:03:12 | [github.com/PrinceAdvant/portwait](https://pkg.go.dev/github.com/PrinceAdvant/portwait@v0.1.0) | v0.1.0 |
-| 2026-11-06 05:03:24 | [github.com/PrinceAdvant/composechk](https://pkg.go.dev/github.com/PrinceAdvant/composechk@v0.1.0) | v0.1.0 |
-| 2026-11-06 05:03:51 | [github.com/princeadvant/portwait](https://pkg.go.dev/github.com/princeadvant/portwait@v0.1.0) | v0.1.0 |
-| 2026-11-06 05:03:51 | [github.com/princeadvant/composechk](https://pkg.go.dev/github.com/princeadvant/composechk@v0.1.0) | v0.1.0 |
-| 2026-11-06 05:03:52 | [github.com/nwylynko/clubhouse-cli](https://pkg.go.dev/github.com/nwylynko/clubhouse-cli@v1.3.3) | v1.3.3 |
-| 2026-11-06 05:04:21 | [github.com/trungdlp/ai-gateway-testkit](https://pkg.go.dev/github.com/trungdlp/ai-gateway-testkit@v0.0.0-20261102044050-3e439d2fe682) | v0.0.0-20261102044050-3e439d2fe682 |
-| 2026-11-06 05:04:21 | [github.com/devmatika/mattermost-plugin-voice](https://pkg.go.dev/github.com/devmatika/mattermost-plugin-voice@v1.0.4) | v1.0.4 |
-| 2026-11-06 05:04:31 | [github.com/skrashevich/quasar-go-genproto](https://pkg.go.dev/github.com/skrashevich/quasar-go-genproto@v0.1.0) | v0.1.0 |
-| 2026-11-06 05:06:50 | [github.com/scriptscat/sctl](https://pkg.go.dev/github.com/scriptscat/sctl@v0.3.0) | v0.3.0 |
-| 2026-11-06 05:07:08 | [github.com/Bitspark/logos-contract/contract/go](https://pkg.go.dev/github.com/Bitspark/logos-contract/contract/go@v0.24.1-0.20261106050133-fc6132c238ea) | v0.24.1-0.20261106050133-fc6132c238ea |
-| 2026-11-06 05:07:29 | [github.com/bitspark/logos-contract/contract/go](https://pkg.go.dev/github.com/bitspark/logos-contract/contract/go@v0.24.0) | v0.24.0 |
-| 2026-11-06 05:07:42 | [github.com/tinkerbell-community/tinkerbell/api](https://pkg.go.dev/github.com/tinkerbell-community/tinkerbell/api@v0.27.0) | v0.27.0 |
-| 2026-11-06 05:09:22 | [github.com/fyne-io/tour](https://pkg.go.dev/github.com/fyne-io/tour@v0.0.0-20200612122039-4144f1af2131) | v0.0.0-20200612122039-4144f1af2131 |
-| 2026-11-06 05:09:24 | [github.com/tectix/mysticfunds](https://pkg.go.dev/github.com/tectix/mysticfunds@v0.0.0-20250720195915-b1949803b679) | v0.0.0-20250720195915-b1949803b679 |
-| 2026-11-06 05:09:41 | [github.com/tryriot/terraform-provider-postgresql](https://pkg.go.dev/github.com/tryriot/terraform-provider-postgresql@v1.28.1) | v1.28.1 |
-| 2026-11-06 05:09:56 | [github.com/tinkerbell-community/tinkerbell](https://pkg.go.dev/github.com/tinkerbell-community/tinkerbell@v0.27.0) | v0.27.0 |
-| 2026-11-06 05:11:50 | [github.com/kssilveira/circuit-engine](https://pkg.go.dev/github.com/kssilveira/circuit-engine@v0.0.0-20251203182909-f8d8225b6d1b) | v0.0.0-20251203182909-f8d8225b6d1b |
-| 2026-11-06 05:18:44 | [github.com/allentom/harukap](https://pkg.go.dev/github.com/allentom/harukap@v0.0.0-20261106041537-51a00f533558) | v0.0.0-20261106041537-51a00f533558 |
+| 2026-11-06 05:20:30 | [github.com/godwit-email/mailservers](https://pkg.go.dev/github.com/godwit-email/mailservers@v0.20261106.1793937071) | v0.20261106.1793937071 |
+| 2026-11-06 05:21:18 | [github.com/ttab/elephant-spell](https://pkg.go.dev/github.com/ttab/elephant-spell@v1.7.0) | v1.7.0 |
+| 2026-11-06 05:22:42 | [github.com/jjjaaammmeeesss/sage-wiki](https://pkg.go.dev/github.com/jjjaaammmeeesss/sage-wiki@v0.0.0-20260406095858-901377486fc8) | v0.0.0-20260406095858-901377486fc8 |
+| 2026-11-06 05:22:43 | [github.com/singchia/geminio](https://pkg.go.dev/github.com/singchia/geminio@v1.3.0-test.20261106.1) | v1.3.0-test.20261106.1 |
+| 2026-11-06 05:22:56 | [github.com/JieWaZi/acp-go-sdk](https://pkg.go.dev/github.com/JieWaZi/acp-go-sdk@v0.13.6-0.20261106052225-bbb4e22da7a0) | v0.13.6-0.20261106052225-bbb4e22da7a0 |
+| 2026-11-06 05:23:08 | [github.com/jiewazi/acp-go-sdk](https://pkg.go.dev/github.com/jiewazi/acp-go-sdk@v0.13.6-0.20261106052225-bbb4e22da7a0) | v0.13.6-0.20261106052225-bbb4e22da7a0 |
+| 2026-11-06 05:26:00 | [github.com/tucuxi/invoicing](https://pkg.go.dev/github.com/tucuxi/invoicing@v0.0.0-20261029200115-b0007a9f5317) | v0.0.0-20261029200115-b0007a9f5317 |
+| 2026-11-06 05:26:31 | [gitlab.com/pixivfe/PixivFE](https://pkg.go.dev/gitlab.com/pixivfe/PixivFE@v1.0.6) | v1.0.6 |
+| 2026-11-06 05:26:56 | [gitlab.com/pixivfe/PixivFE/v3](https://pkg.go.dev/gitlab.com/pixivfe/PixivFE/v3@v3.0.4) | v3.0.4 |
+| 2026-11-06 05:27:02 | [github.com/cloudfoundry/cfdot](https://pkg.go.dev/github.com/cloudfoundry/cfdot@v0.0.0-20231205224143-457669d9fff2) | v0.0.0-20231205224143-457669d9fff2 |
+| 2026-11-06 05:27:10 | [github.com/beam-network/beam](https://pkg.go.dev/github.com/beam-network/beam@v0.0.0-20261105205800-72702b9acf5b) | v0.0.0-20261105205800-72702b9acf5b |
+| 2026-11-06 05:28:57 | [github.com/JieWaZi/NeuxBot](https://pkg.go.dev/github.com/JieWaZi/NeuxBot@v0.2.1) | v0.2.1 |
+| 2026-11-06 05:29:35 | [github.com/jiewazi/neuxbot](https://pkg.go.dev/github.com/jiewazi/neuxbot@v0.2.1) | v0.2.1 |
+| 2026-11-06 05:29:37 | [github.com/tullo/invoice-mvp](https://pkg.go.dev/github.com/tullo/invoice-mvp@v0.0.0-20261104201655-55663a430bde) | v0.0.0-20261104201655-55663a430bde |
+| 2026-11-06 05:30:21 | [github.com/larsartmann/httputil/endpoints](https://pkg.go.dev/github.com/larsartmann/httputil/endpoints@v0.1.0) | v0.1.0 |
+| 2026-11-06 05:30:23 | [github.com/TUM-Dev/Campus-Backend/client](https://pkg.go.dev/github.com/TUM-Dev/Campus-Backend/client@v0.0.0-20261106001848-569e8a6be4b5) | v0.0.0-20261106001848-569e8a6be4b5 |
+| 2026-11-06 05:30:27 | [github.com/tum-dev/campus-backend/client](https://pkg.go.dev/github.com/tum-dev/campus-backend/client@v0.0.0-20261106001848-569e8a6be4b5) | v0.0.0-20261106001848-569e8a6be4b5 |
+| 2026-11-06 05:30:29 | [github.com/samuel/kernel-rpi-os-32](https://pkg.go.dev/github.com/samuel/kernel-rpi-os-32@v0.0.0-20261106052655-2cce9420f454) | v0.0.0-20261106052655-2cce9420f454 |
+| 2026-11-06 05:31:34 | [github.com/strazahq/midpoint-mcp-server](https://pkg.go.dev/github.com/strazahq/midpoint-mcp-server@v0.6.0) | v0.6.0 |
+| 2026-11-06 05:31:54 | [github.com/joeblew999/mise-intl](https://pkg.go.dev/github.com/joeblew999/mise-intl@v0.1.3) | v0.1.3 |
+| 2026-11-06 05:35:13 | [github.com/turbot/terraform-provider-turbot](https://pkg.go.dev/github.com/turbot/terraform-provider-turbot@v1.14.2) | v1.14.2 |
+| 2026-11-06 05:36:09 | [github.com/ningge123/shanyan-go](https://pkg.go.dev/github.com/ningge123/shanyan-go@v0.0.2) | v0.0.2 |
+| 2026-11-06 05:36:15 | [github.com/fabiosoliveira/cpf_cnpj_validator](https://pkg.go.dev/github.com/fabiosoliveira/cpf_cnpj_validator@v0.0.0-20250114235349-bad792b2fce9) | v0.0.0-20250114235349-bad792b2fce9 |
+| 2026-11-06 05:40:02 | [github.com/Dena/unity-meta-check](https://pkg.go.dev/github.com/Dena/unity-meta-check@v0.0.0-20261026101050-8c358bbb9680) | v0.0.0-20261026101050-8c358bbb9680 |
+| 2026-11-06 05:41:39 | [github.com/junjie-yan/web-admin-job](https://pkg.go.dev/github.com/junjie-yan/web-admin-job@v1.11.0) | v1.11.0 |
+| 2026-11-06 05:42:13 | [github.com/threatmate/fork-of-runzero-go-rod](https://pkg.go.dev/github.com/threatmate/fork-of-runzero-go-rod@v0.0.32-0.20261106044825-1076f7bc7cde) | v0.0.32-0.20261106044825-1076f7bc7cde |
+| 2026-11-06 05:44:10 | [github.com/twbbb/toolbox/filter/rpcproxy](https://pkg.go.dev/github.com/twbbb/toolbox/filter/rpcproxy@v0.0.3) | v0.0.3 |
+| 2026-11-06 05:44:10 | [github.com/twbbb/toolbox/component/redislock](https://pkg.go.dev/github.com/twbbb/toolbox/component/redislock@v0.0.4) | v0.0.4 |
+| 2026-11-06 05:44:44 | [github.com/alpdr/gindocnic](https://pkg.go.dev/github.com/alpdr/gindocnic@v1.2.0) | v1.2.0 |
+| 2026-11-06 05:45:03 | [github.com/golang-gui/golink](https://pkg.go.dev/github.com/golang-gui/golink@v0.2.1) | v0.2.1 |
+| 2026-11-06 05:45:32 | [github.com/gc-9/gf](https://pkg.go.dev/github.com/gc-9/gf@v1.1.0) | v1.1.0 |
+| 2026-11-06 05:46:26 | [golang.getoutline.org/tunnel-server/outlinecaddy](https://pkg.go.dev/golang.getoutline.org/tunnel-server/outlinecaddy@v0.0.2-0.20261105081328-2606848229bf) | v0.0.2-0.20261105081328-2606848229bf |
+| 2026-11-06 05:46:26 | [golang.getoutline.org/tunnel-server](https://pkg.go.dev/golang.getoutline.org/tunnel-server@v1.9.3-rc2.0.20261105081328-2606848229bf) | v1.9.3-rc2.0.20261105081328-2606848229bf |
+| 2026-11-06 05:47:07 | [github.com/alexeevayaan/libs](https://pkg.go.dev/github.com/alexeevayaan/libs@v0.0.0-20261106054137-7564161c0478) | v0.0.0-20261106054137-7564161c0478 |
+| 2026-11-06 05:48:00 | [github.com/WarpstreamLabs/bento](https://pkg.go.dev/github.com/WarpstreamLabs/bento@v1.22.0) | v1.22.0 |
+| 2026-11-06 05:50:11 | [github.com/Shougo/goda-pm.vim](https://pkg.go.dev/github.com/Shougo/goda-pm.vim@v0.1.0) | v0.1.0 |
+| 2026-11-06 05:50:42 | [github.com/crossbearing/crossbearing](https://pkg.go.dev/github.com/crossbearing/crossbearing@v0.0.0-20261104225657-93d9ee9248ed) | v0.0.0-20261104225657-93d9ee9248ed |
+| 2026-11-06 05:51:02 | [github.com/shougo/goda-pm.vim](https://pkg.go.dev/github.com/shougo/goda-pm.vim@v0.1.0) | v0.1.0 |
+| 2026-11-06 05:51:26 | [github.com/zoobz-io/herald/io](https://pkg.go.dev/github.com/zoobz-io/herald/io@v1.0.6) | v1.0.6 |
+| 2026-11-06 05:53:27 | [github.com/cloud-barista/cm-centipede/data-mig](https://pkg.go.dev/github.com/cloud-barista/cm-centipede/data-mig@v0.1.3) | v0.1.3 |
+| 2026-11-06 05:53:47 | [github.com/dimasma0305/gzcli](https://pkg.go.dev/github.com/dimasma0305/gzcli@v1.53.1-0.20260522221348-aef0448fe650) | v1.53.1-0.20260522221348-aef0448fe650 |
+| 2026-11-06 05:53:49 | [github.com/tx7do/go-utils/auditutil](https://pkg.go.dev/github.com/tx7do/go-utils/auditutil@v0.1.1) | v0.1.1 |
+| 2026-11-06 05:53:53 | [github.com/tx7do/go-utils/ddl_parser](https://pkg.go.dev/github.com/tx7do/go-utils/ddl_parser@v0.0.6) | v0.0.6 |
+| 2026-11-06 05:53:55 | [github.com/tx7do/go-utils/bank_card](https://pkg.go.dev/github.com/tx7do/go-utils/bank_card@v1.1.7) | v1.1.7 |
+| 2026-11-06 05:53:55 | [github.com/tx7do/go-utils/distlock](https://pkg.go.dev/github.com/tx7do/go-utils/distlock@v0.0.3) | v0.0.3 |
+| 2026-11-06 05:53:55 | [github.com/tx7do/go-utils/code_generator](https://pkg.go.dev/github.com/tx7do/go-utils/code_generator@v0.0.3) | v0.0.3 |
+| 2026-11-06 05:53:57 | [github.com/jackman0925/http-client-ease](https://pkg.go.dev/github.com/jackman0925/http-client-ease@v0.2.1) | v0.2.1 |
+| 2026-11-06 05:54:01 | [github.com/tx7do/go-utils/name_generator](https://pkg.go.dev/github.com/tx7do/go-utils/name_generator@v0.0.2) | v0.0.2 |
+| 2026-11-06 05:54:06 | [github.com/tx7do/go-utils/sqlutil](https://pkg.go.dev/github.com/tx7do/go-utils/sqlutil@v0.1.1) | v0.1.1 |
+| 2026-11-06 05:54:08 | [github.com/tx7do/go-utils/rand](https://pkg.go.dev/github.com/tx7do/go-utils/rand@v0.0.4) | v0.0.4 |
+| 2026-11-06 05:54:14 | [github.com/corigne/lneto](https://pkg.go.dev/github.com/corigne/lneto@v0.0.0-20261106055357-547abf94676b) | v0.0.0-20261106055357-547abf94676b |
+| 2026-11-06 05:56:06 | [github.com/tx7do/kratos-utils/bank_card](https://pkg.go.dev/github.com/tx7do/kratos-utils/bank_card@v1.1.7) | v1.1.7 |
+| 2026-11-06 05:56:16 | [github.com/tx7do/kratos-utils](https://pkg.go.dev/github.com/tx7do/kratos-utils@v1.1.44) | v1.1.44 |
+| 2026-11-06 05:56:28 | [github.com/tx7do/kratos-utils/geoip](https://pkg.go.dev/github.com/tx7do/kratos-utils/geoip@v1.1.9) | v1.1.9 |
+| 2026-11-06 05:58:19 | [github.com/troothllc/trooth-semanto-worker/verifier/go](https://pkg.go.dev/github.com/troothllc/trooth-semanto-worker/verifier/go@v0.0.0-20261104143014-98fd9db6dbe8) | v0.0.0-20261104143014-98fd9db6dbe8 |
+| 2026-11-06 05:58:27 | [github.com/tychofreeman/glisp](https://pkg.go.dev/github.com/tychofreeman/glisp@v0.0.0-20261029044049-09a941341ebf) | v0.0.0-20261029044049-09a941341ebf |
+| 2026-11-06 05:58:49 | [github.com/Kasama/golang-x-crypto/x509roots/fallback](https://pkg.go.dev/github.com/Kasama/golang-x-crypto/x509roots/fallback@v0.0.0-20240626043649-408b31214a71) | v0.0.0-20240626043649-408b31214a71 |
+| 2026-11-06 05:59:02 | [github.com/tyhal/klar](https://pkg.go.dev/github.com/tyhal/klar@v0.0.9) | v0.0.9 |
+| 2026-11-06 05:59:14 | [github.com/kasama/golang-x-crypto/x509roots/fallback](https://pkg.go.dev/github.com/kasama/golang-x-crypto/x509roots/fallback@v0.0.0-20240626043649-408b31214a71) | v0.0.0-20240626043649-408b31214a71 |
+| 2026-11-06 06:03:25 | [github.com/opensecurity-dev/go-nist-sp-800-53](https://pkg.go.dev/github.com/opensecurity-dev/go-nist-sp-800-53@v0.11.0) | v0.11.0 |
+| 2026-11-06 06:03:39 | [github.com/outofboxer/temporal-workflow](https://pkg.go.dev/github.com/outofboxer/temporal-workflow@v0.0.0-20251002053418-8ed5c6533156) | v0.0.0-20251002053418-8ed5c6533156 |
+| 2026-11-06 06:04:20 | [github.com/zenn-dev/gc-vault](https://pkg.go.dev/github.com/zenn-dev/gc-vault@v0.0.0-20260611072906-74574b9691cb) | v0.0.0-20260611072906-74574b9691cb |
+| 2026-11-06 06:05:00 | [github.com/ObolNetwork/lido-dv-exit](https://pkg.go.dev/github.com/ObolNetwork/lido-dv-exit@v0.6.2) | v0.6.2 |
+| 2026-11-06 06:05:13 | [github.com/obolnetwork/lido-dv-exit](https://pkg.go.dev/github.com/obolnetwork/lido-dv-exit@v0.6.2) | v0.6.2 |
+| 2026-11-06 06:07:04 | [github.com/agentbay-ai/wuying-agentbay-sdk/golang](https://pkg.go.dev/github.com/agentbay-ai/wuying-agentbay-sdk/golang@v0.23.0) | v0.23.0 |
+| 2026-11-06 06:07:51 | [github.com/10/seats-aero-cli](https://pkg.go.dev/github.com/10/seats-aero-cli@v0.0.0-20260914205808-6f13a671fbcb) | v0.0.0-20260914205808-6f13a671fbcb |
+| 2026-11-06 06:09:28 | [tangled.org/jlzhjp.dev/govanity.git](https://pkg.go.dev/tangled.org/jlzhjp.dev/govanity.git@v0.0.0-20261106051300-edb17c2bfca0) | v0.0.0-20261106051300-edb17c2bfca0 |
+| 2026-11-06 06:09:53 | [github.com/hicode0101/go-service](https://pkg.go.dev/github.com/hicode0101/go-service@v1.0.1) | v1.0.1 |
+| 2026-11-06 06:11:32 | [github.com/wisnuvb/ronda](https://pkg.go.dev/github.com/wisnuvb/ronda@v0.2.0) | v0.2.0 |
+| 2026-11-06 06:12:56 | [github.com/CyLabAcademy/challenge-orchestrator](https://pkg.go.dev/github.com/CyLabAcademy/challenge-orchestrator@v1.3.0) | v1.3.0 |
+| 2026-11-06 06:13:15 | [github.com/cylabacademy/challenge-orchestrator](https://pkg.go.dev/github.com/cylabacademy/challenge-orchestrator@v1.3.0) | v1.3.0 |
+| 2026-11-06 06:13:15 | [github.com/kuzmik/go-libconfig](https://pkg.go.dev/github.com/kuzmik/go-libconfig@v1.0.2-0.20260330185942-817523264e0c) | v1.0.2-0.20260330185942-817523264e0c |
+| 2026-11-06 06:14:53 | [github.com/Gobwas/Glob](https://pkg.go.dev/github.com/Gobwas/Glob@v1.1.0-rc.1) | v1.1.0-rc.1 |
+| 2026-11-06 06:14:56 | [github.com/neguse/sdev](https://pkg.go.dev/github.com/neguse/sdev@v0.1.0) | v0.1.0 |
+| 2026-11-06 06:17:13 | [github.com/hicode0101/go-captcha](https://pkg.go.dev/github.com/hicode0101/go-captcha@v1.0.1) | v1.0.1 |
+| 2026-11-06 06:17:26 | [github.com/iwen-conf/authgebra-sdks/sdks/go](https://pkg.go.dev/github.com/iwen-conf/authgebra-sdks/sdks/go@v0.1.0) | v0.1.0 |
+| 2026-11-06 06:18:18 | [github.com/agherasim/calscript](https://pkg.go.dev/github.com/agherasim/calscript@v0.0.0-20191123110904-68f1524e42f8) | v0.0.0-20191123110904-68f1524e42f8 |
+| 2026-11-06 06:19:03 | [github.com/gmarkey/CPU-Pooler](https://pkg.go.dev/github.com/gmarkey/CPU-Pooler@v0.3.1) | v0.3.1 |
 
 ## Data source
 
