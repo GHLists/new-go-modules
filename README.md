@@ -9,80 +9,105 @@ not seen before and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:18 UTC
+## Latest list — 2026-11-15 06:19 UTC
 
-New modules first seen between 2026-11-15 04:19 UTC and 2026-11-15 05:18 UTC.
+New modules first seen between 2026-11-15 05:18 UTC and 2026-11-15 06:19 UTC.
 
-[Full CSV](data/new-modules-2026-11-15T05-18-52-866073Z.csv)
+[Full CSV](data/new-modules-2026-11-15T06-19-08-551835Z.csv)
 
 | First seen (UTC) | Module | Version |
 | :--------------- | :----- | :------ |
-| 2026-11-15 04:19:30 | [github.com/rambow-cloud/container-libs/image/v5](https://pkg.go.dev/github.com/rambow-cloud/container-libs/image/v5@v5.37.0) | v5.37.0 |
-| 2026-11-15 04:19:37 | [github.com/costela/docker-etchosts](https://pkg.go.dev/github.com/costela/docker-etchosts@v0.0.0-20261114225107-be8a801916a4) | v0.0.0-20261114225107-be8a801916a4 |
-| 2026-11-15 04:19:45 | [github.com/marxin/oss-fuzz](https://pkg.go.dev/github.com/marxin/oss-fuzz@v0.0.0-20261112091633-5266b3686e45) | v0.0.0-20261112091633-5266b3686e45 |
-| 2026-11-15 04:20:09 | [github.com/IBM/satellite-object-storage-plugin](https://pkg.go.dev/github.com/IBM/satellite-object-storage-plugin@v0.12.23) | v0.12.23 |
-| 2026-11-15 04:20:13 | [github.com/elastos-blockchain/elastos.ela](https://pkg.go.dev/github.com/elastos-blockchain/elastos.ela@v0.0.4-ea46d2c) | v0.0.4-ea46d2c |
-| 2026-11-15 04:21:41 | [github.com/evrial/dockcheck](https://pkg.go.dev/github.com/evrial/dockcheck@v1.0.3) | v1.0.3 |
-| 2026-11-15 04:22:15 | [github.com/FelixSphere/unifyapi-console](https://pkg.go.dev/github.com/FelixSphere/unifyapi-console@v1.0.0-rc.22) | v1.0.0-rc.22 |
-| 2026-11-15 04:23:19 | [github.com/fremenkiel/dev-swiss-go](https://pkg.go.dev/github.com/fremenkiel/dev-swiss-go@v0.0.0-20261104060739-09507711f303) | v0.0.0-20261104060739-09507711f303 |
-| 2026-11-15 04:23:51 | [github.com/rambow-cloud/container-libs/common](https://pkg.go.dev/github.com/rambow-cloud/container-libs/common@v0.70.0-skopeo.1) | v0.70.0-skopeo.1 |
-| 2026-11-15 04:25:09 | [github.com/AlayaNetwork/alaya-Go](https://pkg.go.dev/github.com/AlayaNetwork/alaya-Go@v0.16.4) | v0.16.4 |
-| 2026-11-15 04:25:13 | [github.com/fawwazid/go-redis](https://pkg.go.dev/github.com/fawwazid/go-redis@v1.1.1) | v1.1.1 |
-| 2026-11-15 04:25:30 | [github.com/snet-archives/net](https://pkg.go.dev/github.com/snet-archives/net@v0.25.0) | v0.25.0 |
-| 2026-11-15 04:26:06 | [github.com/xo/magic](https://pkg.go.dev/github.com/xo/magic@v0.5.0) | v0.5.0 |
-| 2026-11-15 04:26:06 | [github.com/xo/magic/compress/zstd](https://pkg.go.dev/github.com/xo/magic/compress/zstd@v0.5.0) | v0.5.0 |
-| 2026-11-15 04:26:10 | [github.com/xo/magic/compress/xz](https://pkg.go.dev/github.com/xo/magic/compress/xz@v0.5.0) | v0.5.0 |
-| 2026-11-15 04:26:52 | [github.com/antonybholmes/go-motiftogene](https://pkg.go.dev/github.com/antonybholmes/go-motiftogene@v0.0.0-20261113232019-c30e44c162c6) | v0.0.0-20261113232019-c30e44c162c6 |
-| 2026-11-15 04:27:44 | [github.com/fremenkiel/devswiss-go](https://pkg.go.dev/github.com/fremenkiel/devswiss-go@v0.0.0-20261104060739-09507711f303) | v0.0.0-20261104060739-09507711f303 |
-| 2026-11-15 04:29:11 | [github.com/thellmwhisperer/agentic-team-member](https://pkg.go.dev/github.com/thellmwhisperer/agentic-team-member@v1.11.0) | v1.11.0 |
-| 2026-11-15 04:29:22 | [github.com/brian-nunez/bkit/objex/drivers/memory](https://pkg.go.dev/github.com/brian-nunez/bkit/objex/drivers/memory@v1.0.1) | v1.0.1 |
-| 2026-11-15 04:30:30 | [github.com/brian-nunez/bkit/objex/drivers/filesystem](https://pkg.go.dev/github.com/brian-nunez/bkit/objex/drivers/filesystem@v1.0.1) | v1.0.1 |
-| 2026-11-15 04:31:27 | [github.com/D2iq-labs/capi-runtime-extensions](https://pkg.go.dev/github.com/D2iq-labs/capi-runtime-extensions@v0.42.0) | v0.42.0 |
-| 2026-11-15 04:31:42 | [github.com/Gui-Rondon/hyrule](https://pkg.go.dev/github.com/Gui-Rondon/hyrule@v0.0.0-20261115043027-d890a6622877) | v0.0.0-20261115043027-d890a6622877 |
-| 2026-11-15 04:32:28 | [github.com/brian-nunez/bkit/objex/drivers/s3](https://pkg.go.dev/github.com/brian-nunez/bkit/objex/drivers/s3@v1.0.1) | v1.0.1 |
-| 2026-11-15 04:33:44 | [github.com/go-aah/test](https://pkg.go.dev/github.com/go-aah/test@v0.0.0-20160925203231-e66bb29a6e67) | v0.0.0-20160925203231-e66bb29a6e67 |
-| 2026-11-15 04:34:13 | [github.com/d2iq-labs/capi-runtime-extensions](https://pkg.go.dev/github.com/d2iq-labs/capi-runtime-extensions@v0.50.1-0.20261113222551-c16a9f5c7d5d) | v0.50.1-0.20261113222551-c16a9f5c7d5d |
-| 2026-11-15 04:34:52 | [github.com/PlatonNetwork/platon-Go](https://pkg.go.dev/github.com/PlatonNetwork/platon-Go@v1.5.2) | v1.5.2 |
-| 2026-11-15 04:35:01 | [github.com/awsdocs/aws-doc-sdk-examples/gov2/sns](https://pkg.go.dev/github.com/awsdocs/aws-doc-sdk-examples/gov2/sns@v0.0.0-20261112214031-9d44b4c73c4d) | v0.0.0-20261112214031-9d44b4c73c4d |
-| 2026-11-15 04:37:05 | [github.com/YoungsoonLee/mcp-hub](https://pkg.go.dev/github.com/YoungsoonLee/mcp-hub@v0.1.5) | v0.1.5 |
-| 2026-11-15 04:37:30 | [github.com/snonux/goprecords](https://pkg.go.dev/github.com/snonux/goprecords@v0.6.3) | v0.6.3 |
-| 2026-11-15 04:38:11 | [github.com/milad-raeisi/lanchat](https://pkg.go.dev/github.com/milad-raeisi/lanchat@v0.1.1) | v0.1.1 |
-| 2026-11-15 04:38:58 | [github.com/brian-nunez/bkit/rdb/drivers/sqlite](https://pkg.go.dev/github.com/brian-nunez/bkit/rdb/drivers/sqlite@v1.0.2) | v1.0.2 |
-| 2026-11-15 04:39:39 | [github.com/docker/docker-scan](https://pkg.go.dev/github.com/docker/docker-scan@v0.1.1-0.20200605142927-defffb99cd9b) | v0.1.1-0.20200605142927-defffb99cd9b |
-| 2026-11-15 04:40:10 | [github.com/milad-raeisi/LANChat](https://pkg.go.dev/github.com/milad-raeisi/LANChat@v0.1.1) | v0.1.1 |
-| 2026-11-15 04:40:38 | [github.com/vipnode/VipNode](https://pkg.go.dev/github.com/vipnode/VipNode@v0.2.6) | v0.2.6 |
-| 2026-11-15 04:40:49 | [github.com/brian-nunez/bkit/rdb/drivers/postgres](https://pkg.go.dev/github.com/brian-nunez/bkit/rdb/drivers/postgres@v1.0.1) | v1.0.1 |
-| 2026-11-15 04:41:42 | [github.com/wham/protoc-go](https://pkg.go.dev/github.com/wham/protoc-go@v0.6.0) | v0.6.0 |
-| 2026-11-15 04:42:09 | [github.com/brian-nunez/bkit/rdb/drivers/mysql](https://pkg.go.dev/github.com/brian-nunez/bkit/rdb/drivers/mysql@v1.0.1) | v1.0.1 |
-| 2026-11-15 04:44:18 | [github.com/ydtg1993/papa/v4](https://pkg.go.dev/github.com/ydtg1993/papa/v4@v4.7.0) | v4.7.0 |
-| 2026-11-15 04:44:31 | [github.com/RaveNOx/go-jsoncommentstrip](https://pkg.go.dev/github.com/RaveNOx/go-jsoncommentstrip@v1.0.0) | v1.0.0 |
-| 2026-11-15 04:47:34 | [github.com/nao1215/embargo](https://pkg.go.dev/github.com/nao1215/embargo@v0.3.0) | v0.3.0 |
-| 2026-11-15 04:50:23 | [github.com/vaartix-mail/vaartix-go](https://pkg.go.dev/github.com/vaartix-mail/vaartix-go@v0.1.0) | v0.1.0 |
-| 2026-11-15 04:56:45 | [github.com/strukturag/nextcloud-spreed-signaling/v2](https://pkg.go.dev/github.com/strukturag/nextcloud-spreed-signaling/v2@v2.2.1-0.20261113194401-7d068ec4ffb5) | v2.2.1-0.20261113194401-7d068ec4ffb5 |
-| 2026-11-15 04:57:28 | [tags.cncf.io/container-device-interface/schema](https://pkg.go.dev/tags.cncf.io/container-device-interface/schema@v0.0.0-20261113181927-9af7e591a3fc) | v0.0.0-20261113181927-9af7e591a3fc |
-| 2026-11-15 04:59:20 | [github.com/mkruskal-google/oss-fuzz](https://pkg.go.dev/github.com/mkruskal-google/oss-fuzz@v0.0.0-20221013164954-65f77817c233) | v0.0.0-20221013164954-65f77817c233 |
-| 2026-11-15 05:00:42 | [github.com/akira-toriyama/glyph/v6](https://pkg.go.dev/github.com/akira-toriyama/glyph/v6@v6.1.1-0.20261109151257-c06e4268025b) | v6.1.1-0.20261109151257-c06e4268025b |
-| 2026-11-15 05:03:02 | [github.com/Cec1c/serverS5A3](https://pkg.go.dev/github.com/Cec1c/serverS5A3@v0.0.0-20261115030823-d2226ab968a1) | v0.0.0-20261115030823-d2226ab968a1 |
-| 2026-11-15 05:03:06 | [github.com/quorumcontrol/tupelo-go-sdk](https://pkg.go.dev/github.com/quorumcontrol/tupelo-go-sdk@v0.5.13-0.20191218203344-f125c5bab218) | v0.5.13-0.20191218203344-f125c5bab218 |
-| 2026-11-15 05:03:12 | [github.com/cec1c/servers5a3](https://pkg.go.dev/github.com/cec1c/servers5a3@v0.0.0-20261115030823-d2226ab968a1) | v0.0.0-20261115030823-d2226ab968a1 |
-| 2026-11-15 05:03:31 | [github.com/bradleyjkemp/sigma-test](https://pkg.go.dev/github.com/bradleyjkemp/sigma-test@v0.0.0-20230115092439-a03a62b7898d) | v0.0.0-20230115092439-a03a62b7898d |
-| 2026-11-15 05:04:03 | [github.com/strrl/duckmon/bindings/go](https://pkg.go.dev/github.com/strrl/duckmon/bindings/go@v0.0.0-20261114061422-166eab974fd4) | v0.0.0-20261114061422-166eab974fd4 |
-| 2026-11-15 05:04:05 | [github.com/STRRL/duckmon/bindings/go](https://pkg.go.dev/github.com/STRRL/duckmon/bindings/go@v0.0.0-20261114061422-166eab974fd4) | v0.0.0-20261114061422-166eab974fd4 |
-| 2026-11-15 05:04:15 | [github.com/platform41/dockguard](https://pkg.go.dev/github.com/platform41/dockguard@v0.6.0) | v0.6.0 |
-| 2026-11-15 05:04:26 | [github.com/mzdluo123/webmux/protocol/relay](https://pkg.go.dev/github.com/mzdluo123/webmux/protocol/relay@v0.0.0-20261115050333-400ecafa0102) | v0.0.0-20261115050333-400ecafa0102 |
-| 2026-11-15 05:04:47 | [github.com/MalenkiySolovey/solovey-component-server-protection](https://pkg.go.dev/github.com/MalenkiySolovey/solovey-component-server-protection@v0.1.0) | v0.1.0 |
-| 2026-11-15 05:05:11 | [github.com/malenkiysolovey/solovey-component-server-protection](https://pkg.go.dev/github.com/malenkiysolovey/solovey-component-server-protection@v0.1.0) | v0.1.0 |
-| 2026-11-15 05:06:15 | [github.com/MongoDB/mongo-go-driver/v2](https://pkg.go.dev/github.com/MongoDB/mongo-go-driver/v2@v2.10.0) | v2.10.0 |
-| 2026-11-15 05:08:32 | [github.com/matthewmueller/chunky](https://pkg.go.dev/github.com/matthewmueller/chunky@v0.8.0) | v0.8.0 |
-| 2026-11-15 05:08:48 | [github.com/Cec1c/serverS5A3/go-server](https://pkg.go.dev/github.com/Cec1c/serverS5A3/go-server@v0.0.0-20261115030823-d2226ab968a1) | v0.0.0-20261115030823-d2226ab968a1 |
-| 2026-11-15 05:09:28 | [go.l3.ai/repo](https://pkg.go.dev/go.l3.ai/repo@v0.7.22) | v0.7.22 |
-| 2026-11-15 05:11:44 | [github.com/AlexanderGroOff/mermaid-ascii](https://pkg.go.dev/github.com/AlexanderGroOff/mermaid-ascii@v0.0.0-20261019220251-5a9df1560871) | v0.0.0-20261019220251-5a9df1560871 |
-| 2026-11-15 05:12:21 | [github.com/cespare/go-cmp](https://pkg.go.dev/github.com/cespare/go-cmp@v0.0.0-20220902224156-a97318bf6562) | v0.0.0-20220902224156-a97318bf6562 |
-| 2026-11-15 05:12:31 | [github.com/cec1c/servers5a3/go-server](https://pkg.go.dev/github.com/cec1c/servers5a3/go-server@v0.0.0-20261115030823-d2226ab968a1) | v0.0.0-20261115030823-d2226ab968a1 |
-| 2026-11-15 05:14:17 | [github.com/medapani/ringbuffer](https://pkg.go.dev/github.com/medapani/ringbuffer@v0.1.0) | v0.1.0 |
-| 2026-11-15 05:16:20 | [github.com/cycanics/agsshub/go](https://pkg.go.dev/github.com/cycanics/agsshub/go@v0.0.0-20261115051602-2ca476cd2b9c) | v0.0.0-20261115051602-2ca476cd2b9c |
-| 2026-11-15 05:18:00 | [github.com/sengirunners/potluck](https://pkg.go.dev/github.com/sengirunners/potluck@v0.0.0-20261115050629-4a3525740599) | v0.0.0-20261115050629-4a3525740599 |
-| 2026-11-15 05:18:52 | [github.com/azurE/azure-sdk-for-go/sdk/containers/azcontainerregistry](https://pkg.go.dev/github.com/azurE/azure-sdk-for-go/sdk/containers/azcontainerregistry@v0.2.3) | v0.2.3 |
+| 2026-11-15 05:20:57 | [github.com/angga0x3/whatscore](https://pkg.go.dev/github.com/angga0x3/whatscore@v0.0.0-20261115051410-fb609aae7278) | v0.0.0-20261115051410-fb609aae7278 |
+| 2026-11-15 05:21:24 | [github.com/reedloden/oss-fuzz](https://pkg.go.dev/github.com/reedloden/oss-fuzz@v0.0.0-20220801184943-7e8cab3d2977) | v0.0.0-20220801184943-7e8cab3d2977 |
+| 2026-11-15 05:22:01 | [github.com/norcubeplatform/cms-schema](https://pkg.go.dev/github.com/norcubeplatform/cms-schema@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:22:35 | [github.com/lfdt-ibc/ibc/gen/go/solidity-abi](https://pkg.go.dev/github.com/lfdt-ibc/ibc/gen/go/solidity-abi@v0.0.0-20261112144306-42c8668aa086) | v0.0.0-20261112144306-42c8668aa086 |
+| 2026-11-15 05:22:36 | [github.com/faustbrian/go-kafka/adapters/mskiam/v2](https://pkg.go.dev/github.com/faustbrian/go-kafka/adapters/mskiam/v2@v2.0.1) | v2.0.1 |
+| 2026-11-15 05:22:49 | [github.com/faustbrian/go-kafka/adapters/otel/v2](https://pkg.go.dev/github.com/faustbrian/go-kafka/adapters/otel/v2@v2.0.1) | v2.0.1 |
+| 2026-11-15 05:23:02 | [github.com/faustbrian/go-kafka/adapters/service/v2](https://pkg.go.dev/github.com/faustbrian/go-kafka/adapters/service/v2@v2.0.1) | v2.0.1 |
+| 2026-11-15 05:24:18 | [github.com/tosnetwork/ai](https://pkg.go.dev/github.com/tosnetwork/ai@v0.0.0-20261115050922-6f2e7bacd140) | v0.0.0-20261115050922-6f2e7bacd140 |
+| 2026-11-15 05:26:52 | [github.com/mettjs/cairnpost-go](https://pkg.go.dev/github.com/mettjs/cairnpost-go@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:29:32 | [github.com/tucnak/telebot/v4](https://pkg.go.dev/github.com/tucnak/telebot/v4@v4.0.0-beta.11) | v4.0.0-beta.11 |
+| 2026-11-15 05:29:48 | [github.com/FelipeFelipeRenan/goverse](https://pkg.go.dev/github.com/FelipeFelipeRenan/goverse@v0.0.0-20261112234213-5f86913bea4a) | v0.0.0-20261112234213-5f86913bea4a |
+| 2026-11-15 05:31:03 | [github.com/cosmos/relayer](https://pkg.go.dev/github.com/cosmos/relayer@v0.0.0-20201107185029-3080dab10e37) | v0.0.0-20201107185029-3080dab10e37 |
+| 2026-11-15 05:31:56 | [github.com/novaura/storyden](https://pkg.go.dev/github.com/novaura/storyden@v1.26.17) | v1.26.17 |
+| 2026-11-15 05:32:20 | [github.com/prorochestvo/LogInjector](https://pkg.go.dev/github.com/prorochestvo/LogInjector@v1.0.10) | v1.0.10 |
+| 2026-11-15 05:32:29 | [go.step.sm/cryptO](https://pkg.go.dev/go.step.sm/cryptO@v0.92.0) | v0.92.0 |
+| 2026-11-15 05:33:39 | [github.com/northwood-labs/aws-sso-vault](https://pkg.go.dev/github.com/northwood-labs/aws-sso-vault@v0.0.0-20261108194134-9517376ec9fa) | v0.0.0-20261108194134-9517376ec9fa |
+| 2026-11-15 05:34:18 | [github.com/garfieldlw/reverse-proxy](https://pkg.go.dev/github.com/garfieldlw/reverse-proxy@v0.0.0-20260606031955-f62b1c3cbbc5) | v0.0.0-20260606031955-f62b1c3cbbc5 |
+| 2026-11-15 05:34:56 | [github.com/ibrokethecloud/wrangler/v3](https://pkg.go.dev/github.com/ibrokethecloud/wrangler/v3@v3.0.0-20261114075348-d5ec34e6c75f) | v3.0.0-20261114075348-d5ec34e6c75f |
+| 2026-11-15 05:35:06 | [github.com/contactless/wb-mqtt-snmp](https://pkg.go.dev/github.com/contactless/wb-mqtt-snmp@v1.10.1) | v1.10.1 |
+| 2026-11-15 05:35:19 | [github.com/STRRL/duckmon/bindings/lib/linux-arm64](https://pkg.go.dev/github.com/STRRL/duckmon/bindings/lib/linux-arm64@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:35:21 | [github.com/STRRL/duckmon/bindings/lib/darwin-arm64](https://pkg.go.dev/github.com/STRRL/duckmon/bindings/lib/darwin-arm64@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:35:32 | [github.com/STRRL/duckmon/bindings/lib/linux-amd64](https://pkg.go.dev/github.com/STRRL/duckmon/bindings/lib/linux-amd64@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:35:34 | [github.com/sglavoie/deps-merger](https://pkg.go.dev/github.com/sglavoie/deps-merger@v0.7.0) | v0.7.0 |
+| 2026-11-15 05:35:56 | [github.com/Balanov/uncut](https://pkg.go.dev/github.com/Balanov/uncut@v0.2.1) | v0.2.1 |
+| 2026-11-15 05:36:27 | [github.com/balanov/uncut](https://pkg.go.dev/github.com/balanov/uncut@v0.2.1) | v0.2.1 |
+| 2026-11-15 05:36:55 | [github.com/altessa-s/go-aip](https://pkg.go.dev/github.com/altessa-s/go-aip@v0.1.8) | v0.1.8 |
+| 2026-11-15 05:37:08 | [github.com/altessa-s/go-aip/backend/mongo](https://pkg.go.dev/github.com/altessa-s/go-aip/backend/mongo@v0.1.8) | v0.1.8 |
+| 2026-11-15 05:37:08 | [github.com/crusoecloud/terraform-provider](https://pkg.go.dev/github.com/crusoecloud/terraform-provider@v1.9.0) | v1.9.0 |
+| 2026-11-15 05:37:13 | [github.com/pipe-cd/pipe/tool/actions-gh-release](https://pkg.go.dev/github.com/pipe-cd/pipe/tool/actions-gh-release@v0.0.0-20261115052258-2c4d78d4cc7c) | v0.0.0-20261115052258-2c4d78d4cc7c |
+| 2026-11-15 05:37:18 | [github.com/raviqqe/turtle](https://pkg.go.dev/github.com/raviqqe/turtle@v0.5.16) | v0.5.16 |
+| 2026-11-15 05:37:51 | [github.com/mrpalide/skywire](https://pkg.go.dev/github.com/mrpalide/skywire@v0.0.0-20261114161919-ceae5332f080) | v0.0.0-20261114161919-ceae5332f080 |
+| 2026-11-15 05:38:04 | [github.com/buerka/ssh-mcp](https://pkg.go.dev/github.com/buerka/ssh-mcp@v0.1.3) | v0.1.3 |
+| 2026-11-15 05:38:07 | [github.com/run-ai/karta/test/e2e](https://pkg.go.dev/github.com/run-ai/karta/test/e2e@v0.0.0-20261113101241-0879dbfef97a) | v0.0.0-20261113101241-0879dbfef97a |
+| 2026-11-15 05:38:12 | [github.com/sinngae/golet/pkg](https://pkg.go.dev/github.com/sinngae/golet/pkg@v0.0.0-20261022062724-71f88e34e740) | v0.0.0-20261022062724-71f88e34e740 |
+| 2026-11-15 05:38:14 | [github.com/c2fmZQ/ech](https://pkg.go.dev/github.com/c2fmZQ/ech@v0.1.1) | v0.1.1 |
+| 2026-11-15 05:38:34 | [github.com/trendvidia/ironclad/sdk](https://pkg.go.dev/github.com/trendvidia/ironclad/sdk@v0.2.2) | v0.2.2 |
+| 2026-11-15 05:38:38 | [github.com/witsaba/paca/packages/platform](https://pkg.go.dev/github.com/witsaba/paca/packages/platform@v0.0.0-20261113162359-bee5442ae2c7) | v0.0.0-20261113162359-bee5442ae2c7 |
+| 2026-11-15 05:38:40 | [github.com/witsaba/paca/packages/health](https://pkg.go.dev/github.com/witsaba/paca/packages/health@v0.0.0-20261113162359-bee5442ae2c7) | v0.0.0-20261113162359-bee5442ae2c7 |
+| 2026-11-15 05:38:42 | [github.com/witsaba/paca/packages/database](https://pkg.go.dev/github.com/witsaba/paca/packages/database@v0.0.0-20261113162359-bee5442ae2c7) | v0.0.0-20261113162359-bee5442ae2c7 |
+| 2026-11-15 05:38:42 | [github.com/witsaba/paca/packages/domain](https://pkg.go.dev/github.com/witsaba/paca/packages/domain@v0.0.0-20261113162359-bee5442ae2c7) | v0.0.0-20261113162359-bee5442ae2c7 |
+| 2026-11-15 05:38:54 | [github.com/strrl/duckmon/bindings/lib/darwin-arm64](https://pkg.go.dev/github.com/strrl/duckmon/bindings/lib/darwin-arm64@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:38:57 | [github.com/strrl/duckmon/bindings/lib/linux-arm64](https://pkg.go.dev/github.com/strrl/duckmon/bindings/lib/linux-arm64@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:38:57 | [github.com/strrl/duckmon/bindings/lib/linux-amd64](https://pkg.go.dev/github.com/strrl/duckmon/bindings/lib/linux-amd64@v0.1.0) | v0.1.0 |
+| 2026-11-15 05:39:13 | [github.com/marthjod/gocart](https://pkg.go.dev/github.com/marthjod/gocart@v0.0.0-20170707120535-17b92627a5c3) | v0.0.0-20170707120535-17b92627a5c3 |
+| 2026-11-15 05:40:55 | [github.com/thellmwhisperer/runscreen](https://pkg.go.dev/github.com/thellmwhisperer/runscreen@v0.0.0-20261115053125-567f2f807f34) | v0.0.0-20261115053125-567f2f807f34 |
+| 2026-11-15 05:41:04 | [github.com/hjhee/TiebaSpider](https://pkg.go.dev/github.com/hjhee/TiebaSpider@v0.1.7) | v0.1.7 |
+| 2026-11-15 05:42:19 | [github.com/michalvasko/oss-fuzz](https://pkg.go.dev/github.com/michalvasko/oss-fuzz@v0.0.0-20240411125208-da820b6fe523) | v0.0.0-20240411125208-da820b6fe523 |
+| 2026-11-15 05:43:32 | [github.com/kisom/cryptutils](https://pkg.go.dev/github.com/kisom/cryptutils@v0.0.0-20150502003926-2eda53ff3e47) | v0.0.0-20150502003926-2eda53ff3e47 |
+| 2026-11-15 05:44:50 | [github.com/shiv3/ocpp-go](https://pkg.go.dev/github.com/shiv3/ocpp-go@v0.17.2-fix.3) | v0.17.2-fix.3 |
+| 2026-11-15 05:45:53 | [github.com/siliconrig/srig-cli](https://pkg.go.dev/github.com/siliconrig/srig-cli@v0.5.0) | v0.5.0 |
+| 2026-11-15 05:48:02 | [github.com/diem/diem](https://pkg.go.dev/github.com/diem/diem@v0.0.0-20210820063304-4b3bd1e1b92d) | v0.0.0-20210820063304-4b3bd1e1b92d |
+| 2026-11-15 05:49:17 | [github.com/jhogendorn/coredns-traefik](https://pkg.go.dev/github.com/jhogendorn/coredns-traefik@v1.0.1-0.20261115054710-256dd1070b34) | v1.0.1-0.20261115054710-256dd1070b34 |
+| 2026-11-15 05:50:09 | [github.com/sourcegraph/go-sourcegraph](https://pkg.go.dev/github.com/sourcegraph/go-sourcegraph@v0.0.0-20140808080524-6937daba84bf) | v0.0.0-20140808080524-6937daba84bf |
+| 2026-11-15 05:52:40 | [github.com/navistau/coredns-plugin-unifi](https://pkg.go.dev/github.com/navistau/coredns-plugin-unifi@v0.5.1) | v0.5.1 |
+| 2026-11-15 05:54:50 | [github.com/tomba-io/cloudflare-customer-email-finder](https://pkg.go.dev/github.com/tomba-io/cloudflare-customer-email-finder@v0.0.0-20260603143707-abe385966bcc) | v0.0.0-20260603143707-abe385966bcc |
+| 2026-11-15 05:55:28 | [github.com/gravitational/license](https://pkg.go.dev/github.com/gravitational/license@v0.0.0-20240313231748-5d247ce1fd84) | v0.0.0-20240313231748-5d247ce1fd84 |
+| 2026-11-15 05:55:33 | [github.com/coho-dev/coho-mutate-go](https://pkg.go.dev/github.com/coho-dev/coho-mutate-go@v0.2.0) | v0.2.0 |
+| 2026-11-15 06:02:59 | [github.com/wiggin77/cfg](https://pkg.go.dev/github.com/wiggin77/cfg@v1.1.0) | v1.1.0 |
+| 2026-11-15 06:03:42 | [github.com/starsrc/pkg/serverx](https://pkg.go.dev/github.com/starsrc/pkg/serverx@v0.1.0) | v0.1.0 |
+| 2026-11-15 06:04:08 | [github.com/starsrc/pkg/observability](https://pkg.go.dev/github.com/starsrc/pkg/observability@v0.1.0) | v0.1.0 |
+| 2026-11-15 06:05:15 | [github.com/victorzhuk/gohan](https://pkg.go.dev/github.com/victorzhuk/gohan@v0.3.0) | v0.3.0 |
+| 2026-11-15 06:07:11 | [github.com/arangodb-helper/arangodbstarter](https://pkg.go.dev/github.com/arangodb-helper/arangodbstarter@v0.19.32-preview-1) | v0.19.32-preview-1 |
+| 2026-11-15 06:07:12 | [github.com/arangodb-helper/ArangoDBStarter](https://pkg.go.dev/github.com/arangodb-helper/ArangoDBStarter@v0.19.32-preview-1) | v0.19.32-preview-1 |
+| 2026-11-15 06:07:28 | [github.com/cehbz/qbittorrent/v2](https://pkg.go.dev/github.com/cehbz/qbittorrent/v2@v2.1.1) | v2.1.1 |
+| 2026-11-15 06:08:12 | [github.com/dreamervulpi/tourneybot](https://pkg.go.dev/github.com/dreamervulpi/tourneybot@v0.6.0) | v0.6.0 |
+| 2026-11-15 06:08:14 | [github.com/googleapis/Go-Genai](https://pkg.go.dev/github.com/googleapis/Go-Genai@v1.77.1-0.20261114052819-4348fe0d6d37) | v1.77.1-0.20261114052819-4348fe0d6d37 |
+| 2026-11-15 06:08:15 | [github.com/dreamervulpi/tourneyBot](https://pkg.go.dev/github.com/dreamervulpi/tourneyBot@v0.6.0) | v0.6.0 |
+| 2026-11-15 06:08:17 | [github.com/azerothcore/Azerothghost](https://pkg.go.dev/github.com/azerothcore/Azerothghost@v1.0.8) | v1.0.8 |
+| 2026-11-15 06:09:59 | [sourcegraph.com/sourcegraph/vcsstore](https://pkg.go.dev/sourcegraph.com/sourcegraph/vcsstore@v0.0.0-20150113060040-d79449143250) | v0.0.0-20150113060040-d79449143250 |
+| 2026-11-15 06:10:47 | [hop.top/uma/adapter/chat/discord](https://pkg.go.dev/hop.top/uma/adapter/chat/discord@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:10:48 | [hop.top/uma/adapter/chat/slack](https://pkg.go.dev/hop.top/uma/adapter/chat/slack@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:10:49 | [hop.top/uma](https://pkg.go.dev/hop.top/uma@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:10:50 | [hop.top/uma/adapter/chat/teams](https://pkg.go.dev/hop.top/uma/adapter/chat/teams@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:10:50 | [hop.top/uma/adapter/chat/telegram](https://pkg.go.dev/hop.top/uma/adapter/chat/telegram@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:01 | [hop.top/uma/adapter/ticket/github](https://pkg.go.dev/hop.top/uma/adapter/ticket/github@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:01 | [hop.top/uma/adapter/mail/google](https://pkg.go.dev/hop.top/uma/adapter/mail/google@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:01 | [hop.top/uma/adapter/messaging/meta](https://pkg.go.dev/hop.top/uma/adapter/messaging/meta@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:02 | [hop.top/uma/adapter/ticket/zendesk](https://pkg.go.dev/hop.top/uma/adapter/ticket/zendesk@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:03 | [hop.top/uma/adapter/messaging/twilio](https://pkg.go.dev/hop.top/uma/adapter/messaging/twilio@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:03 | [hop.top/uma/adapter/mail/microsoft](https://pkg.go.dev/hop.top/uma/adapter/mail/microsoft@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:03 | [hop.top/uma/adapter/mail](https://pkg.go.dev/hop.top/uma/adapter/mail@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:10 | [hop.top/uma/store/postgres](https://pkg.go.dev/hop.top/uma/store/postgres@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:11 | [hop.top/uma/contrib/kit](https://pkg.go.dev/hop.top/uma/contrib/kit@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:11:11 | [hop.top/uma/testing/xrrtest](https://pkg.go.dev/hop.top/uma/testing/xrrtest@v0.0.0-20261115054123-b65f758ba5e3) | v0.0.0-20261115054123-b65f758ba5e3 |
+| 2026-11-15 06:12:26 | [github.com/assanoff/cmd/reqlog](https://pkg.go.dev/github.com/assanoff/cmd/reqlog@v0.1.0) | v0.1.0 |
+| 2026-11-15 06:13:19 | [github.com/benpate/floodgate](https://pkg.go.dev/github.com/benpate/floodgate@v0.0.0-20261113011423-ac52e680a795) | v0.0.0-20261113011423-ac52e680a795 |
+| 2026-11-15 06:16:15 | [github.com/dpanic/patchfiles](https://pkg.go.dev/github.com/dpanic/patchfiles@v0.0.0-20261114190714-00d23cc3cea8) | v0.0.0-20261114190714-00d23cc3cea8 |
+| 2026-11-15 06:16:43 | [github.com/Google/certificate-transparency-go](https://pkg.go.dev/github.com/Google/certificate-transparency-go@v1.1.7) | v1.1.7 |
+| 2026-11-15 06:16:57 | [github.com/wolfsilver/caddy-l4](https://pkg.go.dev/github.com/wolfsilver/caddy-l4@v0.0.0-20261115061400-b8b337b2275d) | v0.0.0-20261115061400-b8b337b2275d |
+| 2026-11-15 06:17:30 | [github.com/tdrozdovsky/oss-fuzz](https://pkg.go.dev/github.com/tdrozdovsky/oss-fuzz@v0.0.0-20240923212127-f653806be5e8) | v0.0.0-20240923212127-f653806be5e8 |
+| 2026-11-15 06:18:08 | [github.com/apv022/muhssg](https://pkg.go.dev/github.com/apv022/muhssg@v0.0.0-20261115061739-da4c87cb9623) | v0.0.0-20261115061739-da4c87cb9623 |
 
 ## Data source
 
